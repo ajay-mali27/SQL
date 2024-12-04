@@ -23,3 +23,4 @@ VALUES (2, 'Chandu', 'SYBCA', 'Male'),
     (3, 'Keshav', 'FYBSC', 'Male');
 
 SELECT * FROM MCA;
+SELECT * FROM mca WHERE name='ajay';
