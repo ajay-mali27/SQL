@@ -29,3 +29,6 @@ Rename TABLE     MCA to SYMCA;
 Rename TABLE    SYMCA   TO BCA;
 RENAME TABLE BCA TO MCA;
 desc MCA;
+
+TRUNCATE mca;
+SELECT * FROM mca;
