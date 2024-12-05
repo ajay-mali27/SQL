@@ -10,5 +10,5 @@ DROP TABLE mca;
 -- 4. Single line comment
 
 /*
-5. Multi line COMMENT
+5. Multi line COMMENTS
 */
