@@ -22,4 +22,10 @@ ALter Table MCA ADD Gender VARCHAR(10);
 
 alter Table mca ADD Girls VARCHAR(22);
 
+
+-- 2. Rename Table
+
+Rename TABLE     MCA to SYMCA;
+Rename TABLE    SYMCA   TO BCA;
+RENAME TABLE BCA TO MCA;
 desc MCA;
