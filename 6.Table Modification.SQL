@@ -30,5 +30,6 @@ Rename TABLE    SYMCA   TO BCA;
 RENAME TABLE BCA TO MCA;
 desc MCA;
 
+-- Detele all the rows (all the values)
 TRUNCATE mca;
 SELECT * FROM mca;
