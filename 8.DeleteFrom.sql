@@ -18,3 +18,5 @@ DELETE FROM students WHERE age=12;
 
 DELETE FROM students WHERE grade="8th";
 SELECT * FROM students;
+
+show DATABASEs;
