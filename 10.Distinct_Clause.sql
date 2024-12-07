@@ -54,6 +54,7 @@ VALUES (
         3.7
     ), (25, "AJAY", "Mali", 45, 67,9.9);
 
+-- It remove the duplicate values;
 SELECT DISTINCT first_name  FROM BSC_Student;
 
 SELECT * FROM BSC_student;
