@@ -42,3 +42,6 @@ VALUES (
 
 -- Output
 SELECT * FROM mca;
+SHOW DATABASEs;
+use books;
+;
